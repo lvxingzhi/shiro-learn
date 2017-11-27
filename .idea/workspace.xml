@@ -2,66 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c832c3-5320-4193-8940-44048db48b3d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/HelloAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/LoginAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/PermissionAAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/PermissionBAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/RoleAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/action/UnauthorizedAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/dao/PermissionDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/dao/RoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/entity/PermissionEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/entity/RoleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/filter/SetCharacterEncodingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/logic/BusinessLogic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/service/PermissionService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/service/RoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/shiro/SystemRealm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/shiro/SystemRolePermissionResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/note/util/PasswordUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shiro.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/HelloAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/LoginAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/PermissionAAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/PermissionBAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/RoleAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/action/UnauthorizedAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/dao/PermissionDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/dao/RoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/entity/PermissionEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/entity/RoleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/filter/SetCharacterEncodingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/logic/BusinessLogic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/service/PermissionService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/service/RoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/shiro/SystemRealm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/shiro/SystemRolePermissionResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/com/note/util/PasswordUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/classes/shiro.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/loginSuccess.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/permission.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/role.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/jsp/unauthorized.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/junit-4.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/shiro-core-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/shiro-web-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shiro-learn-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/test1/LoginTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shiro-learn.iws" />
@@ -91,16 +31,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
               <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NameableFilter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Personal/.m2/repository/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/NameableFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="53" column="41" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -372,11 +302,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1511752861978" expanded="true" signature="97646:97734" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -432,6 +384,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/note/action/HelloAction.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -502,7 +456,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -1215,8 +1169,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511234213104</updated>
-      <workItem from="1511234214725" duration="28825000" />
+      <workItem from="1511234214725" duration="28947000" />
     </task>
+    <task id="LOCAL-00001" summary="删除临时文件">
+      <created>1511752766180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511752766180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1252,7 +1214,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28825000" />
+    <option name="totallyTimeSpent" value="28947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="329" y="2" width="1145" height="1019" extended-state="0" />
@@ -1329,6 +1291,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除临时文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除临时文件" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
@@ -1351,22 +1317,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/note/action/UnauthorizedAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="34" column="5" selection-start-line="30" selection-start-column="3" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/note/action/RoleAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -1771,6 +1721,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1511752861978" expanded="true" signature="97646:97734" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
